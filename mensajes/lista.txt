@@ -1,0 +1,9 @@
+Por favor, escribe el número de la opción que te interesa:
+
+1.- Agendar una cita.
+
+2.- URGENCIAS.
+
+3.- Buzón de quejas y sugerencias.
+
+4.- Salir

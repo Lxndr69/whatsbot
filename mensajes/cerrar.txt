@@ -1,0 +1,4 @@
+Gracias por haber usado el bot del servicio médico de la SCJN.
+Si deseas reiniciar la conversación escribe "hola" o si deseas acceder al menú escribe "lista".
+Si necesitas más apoyo puedes comunicarte a la extensión *8911*.
+Hasta pronto.

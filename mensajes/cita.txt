@@ -1,0 +1,11 @@
+Para agendar una cita se requiere la siguiente información:
+
+*Nombre completo.
+
+*Edificio.
+
+*Expediente.
+
+*Especialidad (si no la sabes puedes escribir "especialidad" para ver la lista completa de especialidades).
+
+*Fecha de la cita.

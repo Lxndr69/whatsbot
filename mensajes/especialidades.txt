@@ -1,0 +1,42 @@
+Esta es la lista de especialidades (Una vez hayas identificado la *especialidad*, por favor, vuelve a escribir "*lista*", esto para regresar al punto anterior.):
+
+1.- (*En Línea*) Salud Mental - Ana Patricia Carrillo Vargas
+
+2.- (*Presencial*) Salud Mental - Ana Patricia Carrillo Vargas
+
+3.- Campaña ginecologíca - Edificio Alterno
+
+4.- Campaña ginecologíca - Edificio Sede
+
+5.- Campaña Urología - Edificio Sede Dr. Daniel Alejandro Arreola Ramírez
+
+6.- Nutrición - Jazmín Aleli Aponte Castillo
+
+7.-Oftalmología - Dr. Ricardo Azanza Garrido
+
+8.- Resultados Riesgos Cardiovasculares - Alfonso Armando Salazar Mendoza
+
+9.- Resultados Riesgos Cardiovasculares - Arturo Islas Elizalde
+
+10.- Resultados Riesgos Cardiovasculares - Bertha Araceli Hernández Palomares
+
+11.- Resultados Riesgos Cardiovasculares - Carlos Agustín Candanosa Arias
+
+12.- Resultados Riesgos Cardiovasculares - Ivonne Murillo López
+
+13.- Resultados Riesgos Cardiovasculares - José Fernando Cruz Manzano
+
+14.- Resultados Riesgos Cardiovasculares - Laura Mariana Márquez Samniego
+
+15.- Resultados Riesgos Cardiovasculares - María Gómez Palacio Schjetnan
+
+16.- Resultados Riesgos Cardiovasculares - Paulina Leticia Triana Hernández
+
+17.- Salud Menta (*Línea*) - Ingrid Citlalli Cervantes Huerta
+
+18.- Odontología - Dra. Jessica Navarro Montoya
+
+18.- Odontología  - Dra. Nadie Ever Salazar
+
+
+Una vez hayas identificado la especialidad, por favor, vuelve a escribir "*lista*", esto para regresar al punto anterior.
